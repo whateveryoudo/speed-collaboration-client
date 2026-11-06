@@ -130,3 +130,4 @@ export function useCollaboration(options: UseCollaborationOptions): UseCollabora
     reconnect: setup,
   }
 }
+

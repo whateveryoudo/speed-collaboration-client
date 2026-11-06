@@ -1,5 +1,5 @@
 {
-  "name": "speed-collaboration-client",
+  "name": "speed-collaboration",
   "private": true,
   "version": "0.1.0",
   "description": "Universal real-time collaboration client SDK powered by Yjs & Hocuspocus",
@@ -16,3 +16,4 @@
   },
   "packageManager": "pnpm@9.15.0"
 }
+

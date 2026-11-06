@@ -20,7 +20,7 @@ Universal real-time collaboration client SDK powered by **Yjs** & **Hocuspocus**
 ## 📦 包结构
 
 ```text
-speed-collaboration-client/
+speed-collaboration/
 ├── packages/
 │   ├── core/      # @speed-collaboration/core (通用纯 TS 协同内核)
 │   └── vue3/      # @speed-collaboration/vue3 (Vue 3 响应式 Hook)
@@ -96,3 +96,4 @@ pnpm release
 ## 📄 License
 
 [MIT](./LICENSE)
+

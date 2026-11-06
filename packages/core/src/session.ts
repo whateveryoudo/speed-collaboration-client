@@ -156,3 +156,4 @@ export class CollaborationSession {
 export function createCollaborationSession(options: CollaborationSessionOptions): CollaborationSession {
   return new CollaborationSession(options)
 }
+

@@ -37,3 +37,4 @@ export interface CollaborationSessionOptions extends CollaborationConfig, Collab
   /** 外部传入已存在的 Y.Doc 实例（可选） */
   document?: Y.Doc
 }
+
